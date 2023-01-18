@@ -1,7 +1,7 @@
 # Portfolio
 
 - 岩立　一樹
-- 連絡先 Twitter [@T3485_72]  / Email [hitugi3485@gmail.com](hitugi3485@gmail.com)
+- 連絡先 Twitter [@T3485_72](https://twitter.com/T3485_72)  / Email [hitugi3485@gmail.com](hitugi3485@gmail.com)
 - 専門学校デジタルアーツ東京 ゲームプログラムコース 2024年卒業予定
 
 
@@ -32,13 +32,14 @@
 - 開発期間：3～4週間
 
 ### THE TETTEPEKI
-[<img src="images/TeepekiTitle.png" alt="a" style="height: 200px">](a)
+[<img src="images/TeepekiTitle.png" alt="a" style="height: 200px">](TeepekiTitle.png)
+
 [THE TETTEPEKI](https://unityroom.com/games/tepeki)
 
-プレイヤーに矢が当たるとゲームオーバー 盾で矢を弾くとスコアがもらえる n
+プレイヤーに矢が当たるとゲームオーバー 盾で矢を弾くとスコアがもらえる
 - 開発環境：Unity
 - 開発期間：2週間半
 
 ## 連絡先
-- Twitter [@T3485_72]
+- Twitter [@T3485_72](https://twitter.com/T3485_72)
 - E-mail [hitugi3485@gmail.com](hitugi3485@gmail.com)
