@@ -22,23 +22,22 @@
 ## 作品リスト
 
 ### TANK1916
-[<img src="images/inm00.png" alt="inm" style="height: 360px">](inm00.png)
+[<img src="images/TANK916Title.png" alt="inm" style="height: 300px">](TANK916Title.png)
 
 [TANK1916](https://unityroom.com/games/tank1916)
 
-myn
+射撃を敵に当ててスコアをゲット! 
 
 - 開発環境：Unity
 - 開発期間：3～4週間
 
-### a
-[<img src="images/a" alt="a" style="height: 360px">](a)
-[a](a)
+### THE TETTEPEKI
+[<img src="images/TeepekiTitle.png" alt="a" style="height: 200px">](a)
+[THE TETTEPEKI](https://unityroom.com/games/tepeki)
 
-「a」
+プレイヤーに矢が当たるとゲームオーバー 盾で矢を弾くとスコアがもらえる n
 - 開発環境：Unity
 - 開発期間：2週間半
-a
 
 ## 連絡先
 - Twitter [@T3485_72]
