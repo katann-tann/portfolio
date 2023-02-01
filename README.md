@@ -12,7 +12,7 @@
   - 利用歴1年
   - Visual Studioで独自のツールの作成が可能
 - Unity
-  - 利用歴1年
+  - 利用歴1～2年
   - オリジナルの個人/チーム作品の開発経験あり
 - C/C++
   - 利用歴1年
@@ -32,7 +32,7 @@
 射撃を敵に当ててスコアをゲット! 
 
 - 開発環境：Unity
-- 開発期間：1ヶ月半
+- 開発期間：約1ヶ月半
 
 ### THE TETTEPEKI
 [<img src="images/TeepekiTitle.png" alt="a" style="height: 200px">](TeepekiTitle.png)
