@@ -35,7 +35,7 @@
 ### THE TETTEPEKI
 [<img src="images/TeepekiTitle.png" alt="a" style="height: 200px">](TeepekiTitle.png)
 
-[THE TETTEPEKI](https://unityroom.com/games/tepeki)
+[THE TETTEPEKI] 開発中
 
 プレイヤーに矢が当たるとゲームオーバー 盾で矢を弾くとスコアがもらえる
 - 開発環境：Unity
