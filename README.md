@@ -4,6 +4,8 @@
 - 連絡先 Twitter [@T3485_72](https://twitter.com/T3485_72)  / Email [hitugi3485@gmail.com](hitugi3485@gmail.com)
 - 専門学校デジタルアーツ東京 ゲームプログラムコース 2024年卒業予定
 
+## 資格 
+- ビジネス能力検定 3級
 
 ## スキル
 - C#
@@ -19,6 +21,7 @@
 ## 取り組んでいるテーマ
 1. unityでのオリジナルゲーム開発
 2. 監視カメラを主人公としたゲームの企画中
+3. チームによる改良の計画?
 
 ## 作品リスト
 
@@ -30,7 +33,7 @@
 射撃を敵に当ててスコアをゲット! 
 
 - 開発環境：Unity
-- 開発期間：3～4週間
+- 開発期間：1ヶ月半
 
 ### THE TETTEPEKI
 [<img src="images/TeepekiTitle.png" alt="a" style="height: 200px">](TeepekiTitle.png)
@@ -39,7 +42,7 @@
 
 プレイヤーに矢が当たるとゲームオーバー 盾で矢を弾くとスコアがもらえる
 - 開発環境：Unity
-- 開発期間：2週間半
+- 開発期間：12月～
 
 ## 連絡先
 - Twitter [@T3485_72](https://twitter.com/T3485_72)
