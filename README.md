@@ -27,7 +27,7 @@
 [<img src="images/Txms.png" alt="inm" style="height: 300px">](Txms.png)
 
 
-[truckxms](https://unityroom.com/games/truchristmas)
+UnityRoomリンク[truckxms](https://unityroom.com/games/truchristmas)
 
 道に落ちたプレゼントを回収してクリスマスツリーに届けよう!
 (その後はサンタさんがなんとかしてくれるはず...)
@@ -39,7 +39,7 @@
 ### TANK1916
 [<img src="images/TANK916Title.png" alt="inm" style="height: 300px">](TANK916Title.png)
 
-(UnityRoomリンク)[TANK1916](https://unityroom.com/games/tank1916)
+UnityRoomリンク[TANK1916](https://unityroom.com/games/tank1916)
 
 射撃を敵に当ててスコアをゲット! 
 
