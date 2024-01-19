@@ -25,7 +25,7 @@
 ## 作品リスト
 
 ### トラックリスマス
-[<img src="images/inm00.png" alt="inm" style="height: 300px">](TANK916Title.png)
+[<img src="images/Txms.png" alt="inm" style="height: 300px">](Txms.png)
 
 
 [truckxms](https://unityroom.com/games/truchristmas)
