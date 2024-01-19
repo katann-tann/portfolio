@@ -36,7 +36,7 @@ UnityRoomリンク[trucxms](https://unityroom.com/games/truchristmas)
 - 1週間ゲームジャム「おくる」参加作品
 
 ### TANK1916
-[<img src="images/TANK916Title.png" alt="inm" style="height: 300px">](TANK916Title.png)
+[<img src="images/Tank1.png" alt="inm" style="height: 300px">](TANK916Title.png)
 
 UnityRoomリンク[TANK1916](https://unityroom.com/games/tank1916)
 
