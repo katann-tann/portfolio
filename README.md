@@ -1,7 +1,7 @@
 # Portfolio
 
 - 岩立　一樹
-- 連絡先 Twitter [@T3485_72](https://twitter.com/T3485_72)  / Email [hitugi3485@gmail.com](hitugi3485@gmail.com)
+- 連絡先 Email [hitugi3485@gmail.com](hitugi3485@gmail.com)
 - 専門学校デジタルアーツ東京 ゲームプログラムコース 2024年卒業予定
 
 ## 資格 
@@ -19,8 +19,7 @@
   - コンソールで簡単なデータ処理プログラムを開発
 
 ## 取り組んでいるテーマ
-1. unityでのオリジナルゲーム開発
-2. 監視カメラを主人公としたゲームの企画中
+1. 更新停止中
 
 ## 作品リスト
 
@@ -47,15 +46,5 @@
 - 開発環境：Unity
 - 開発期間：約1ヶ月半
 
-### THE TETTEPEKI
-[<img src="images/TeepekiTitle.png" alt="a" style="height: 200px">](TeepekiTitle.png)
-
-[THE TETTEPEKI] 開発中
-
-プレイヤーに矢が当たるとゲームオーバー 盾で矢を弾くとスコアがもらえる
-- 開発環境：Unity
-- 開発期間：2022年12月～現在開発中
-
 ## 連絡先
-- Twitter [@T3485_72](https://twitter.com/T3485_72)
 - E-mail [hitugi3485@gmail.com](hitugi3485@gmail.com)
