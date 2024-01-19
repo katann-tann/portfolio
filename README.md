@@ -18,21 +18,24 @@
   - 利用歴2年
   - コンソールで簡単なデータ処理プログラムを開発
 
+### 現在取り組んでいるテーマ
+1. 卒業制作(RECAPTURER)のお手伝い
+1. 
+
 ## 作品リスト
 
-### トラックリスマス
+### RECAPTURER
 [<img src="images/RC1.jpg" alt="inm" style="height: 300px">](RC1.png)
 
 卒業制作のお手伝いでプログラムを担当していました。
 
-道に落ちたプレゼントを回収してクリスマスツリーに届けるゲームです!
+FPS視点で敵を倒すゲームです
 
 - 開発環境：Unity2021.3.4f1
 - 開発期間：4～5ヶ月
 
 ### トラックリスマス
 [<img src="images/Txms.png" alt="inm" style="height: 300px">](Txms.png)
-
 
 [UnityRoomリンク](https://unityroom.com/games/truchristmas)
 
