@@ -27,7 +27,7 @@
 [<img src="images/Txms.png" alt="inm" style="height: 300px">](Txms.png)
 
 
-UnityRoomリンク[trucxms](https://unityroom.com/games/truchristmas)
+[UnityRoomリンク](https://unityroom.com/games/truchristmas)
 
 道に落ちたプレゼントを回収してクリスマスツリーに届けるゲームです!
 
@@ -38,7 +38,7 @@ UnityRoomリンク[trucxms](https://unityroom.com/games/truchristmas)
 ### TANK1916
 [<img src="images/Tank1.png" alt="inm" style="height: 300px">](TANK916Title.png)
 
-UnityRoomリンク[TANK1916](https://unityroom.com/games/tank1916)
+[UnityRoomリンク](https://unityroom.com/games/tank1916)
 
 射撃を敵に当ててスコアをゲット! 
 
