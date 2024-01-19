@@ -19,7 +19,7 @@
   - コンソールで簡単なデータ処理プログラムを開発
 
 ## 取り組んでいるテーマ
-1. 更新停止中
+1. 現状維持
 
 ## 作品リスト
 
@@ -27,12 +27,11 @@
 [<img src="images/Txms.png" alt="inm" style="height: 300px">](Txms.png)
 
 
-UnityRoomリンク[truckxms](https://unityroom.com/games/truchristmas)
+UnityRoomリンク[trucxms](https://unityroom.com/games/truchristmas)
 
-道に落ちたプレゼントを回収してクリスマスツリーに届けよう!
-(その後はサンタさんがなんとかしてくれるはず...)
+道に落ちたプレゼントを回収してクリスマスツリーに届けるゲームです!
 
-- 開発環境：Unity
+- 開発環境：Unity2021.3.4f1
 - 開発期間：2～3週間
 - 1週間ゲームジャム「おくる」参加作品
 
