@@ -21,7 +21,7 @@
 ## 作品リスト
 
 ### トラックリスマス
-[<img src="images/RC1.png" alt="inm" style="height: 300px">](RC1.png)
+[<img src="images/RC1.jpg" alt="inm" style="height: 300px">](RC1.png)
 
 卒業制作のお手伝いでプログラムを担当していました。
 
