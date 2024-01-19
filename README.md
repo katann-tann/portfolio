@@ -32,7 +32,7 @@
 FPS視点で敵を倒すゲームです
 
 - 開発環境：Unity2021.3.4f1
-- 開発期間：4～5ヶ月
+- 開発期間：4～5ヶ月～Now
 
 ### トラックリスマス
 [<img src="images/Txms.png" alt="inm" style="height: 300px">](Txms.png)
