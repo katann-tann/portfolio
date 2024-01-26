@@ -21,7 +21,7 @@
 
 ## 作品リスト
 ### トラックリスマス
-[<img src="images/Txms.png" alt="inm" style="height: 300px">](Txms.png)
+[<img src="images/Txms2.png" alt="inm" style="height: 300px">](Txms.png)
 
 [UnityRoomリンク](https://unityroom.com/games/truchristmas)
 
